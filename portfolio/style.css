@@ -118,12 +118,12 @@ padding: 8px 22px;
   .html {width: 90%; background-color: #04AA6D;} /* Green */
   .css {width: 80%; background-color: #4ecf4a;}
    /* Blue */
-   .bootsrarp {width: 60%; background-color: #66c57f;}
-   .java{width: 60%; background-color: #d33131;}
+   .bootsrarp {width: 80%; background-color: #66c57f;}
+   .java{width: 80%; background-color: #d33131;}
    .c{width: 60%; background-color: #623030;}
    .python {width: 70%; background-color: #ee2727;}
-  .js {width: 65%; background-color: #acdb9e;} /* Red */
-  .php {width: 60%; background-color: #60c585;} 
+  .js {width: 70%; background-color: #acdb9e;} /* Red */
+  .php {width: 90%; background-color: #60c585;} 
 
 
   nav{
